@@ -36,7 +36,7 @@ The system finds the shortest path from a start point to a goal while avoiding o
 
 ## 🎥 Demo Video
 
-[Click here to watch demo](output/videos/OUTPUT.mp4)
+[Click here to watch demo](output/videos/output.mp4)
 
 ## 🚀 Future Improvements
 
